@@ -1,7 +1,7 @@
 # Kodluyoruz ilk Repo
 Bu repo [Kodluyoruz](https//:kodluyoruz.org) GIT-Markdown eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html ve bir adet img dosyası barındırıyor.
 
-![Projemin Resmi](<img width="824" height="998" alt="kodluyoruz" src="https://github.com/user-attachments/assets/7c40729a-6095-41e1-925d-73e1a4a2e662" />)
+![Projemin Resmi](https://github.com/user-attachments/assets/780d88fb-3ae6-4be6-8529-02ea445cbc98)
 
 
 ## Installation
